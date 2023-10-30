@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on **Atlanta Project**
 
-- 🌱 I’m currently learning **frameworks**
 
 - 👯 I’m looking to collaborate on **Atlanta Project**
-
-- 🤝 I’m looking for help with **San-Fierro Project**
-
-- 💬 Ask me about **pawn**
+- 💬 Ask me about **pawn, python, js**
 
 - 📫 How to reach me **safonovroman.work@gmail.com**
 
