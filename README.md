@@ -10,7 +10,7 @@
 
 
 - 👯 I’m looking to collaborate on **Atlanta Project**
-- 💬 Ask me about **pawn, python, js**
+- 💬 Ask me about **Pawn, Python, JavaScript**
 
 - 📫 How to reach me **safonovroman.work@gmail.com**
 
